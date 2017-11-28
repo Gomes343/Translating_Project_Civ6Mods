@@ -2,13 +2,13 @@
 <GameData>
     <LocalizedText>
         <Replace Tag="LOC_UNIT_CAMEL_ARCHER_NAME" Language="pt_BR">
-            <Text>Camel Archer</Text>
+            <Text>Camelo Arqueiro</Text>
         </Replace>
         <Replace Tag="LOC_UNIT_CAMEL_ARCHER_DESCRIPTION" Language="pt_BR">
             <Text>Arabian unique Classical Era unit. Gains additional +8 [ICON_Strength] when fighting on Desert or Plains.</Text>
         </Replace>
         <Replace Tag="LOC_UNIT_PELTAST_NAME" Language="pt_BR">
-            <Text>Peltast</Text>
+            <Text>Peltasta</Text>
         </Replace>
         <Replace Tag="LOC_UNIT_PELTAST_DESCRIPTION" Language="pt_BR">
             <Text>Greek unique Ranged unit that replaces Archer. Stronger Ranged attack and Melee defence than Archer but with Range 1.</Text>
@@ -20,13 +20,13 @@
             <Text>American unique Industrial Era unit that replaces Musketman. Weaker than Musketman, but cheaper to build and maintain and gains +5 [ICON_Strength] Combat Strength when fighting in or adjacent to its home territory. Also gains additional +5 [ICON_Strength] when fighting in Forest or Jungle.</Text>
         </Replace>
         <Replace Tag="LOC_UNIT_LANDSKNECHT_NAME" Language="pt_BR">
-            <Text>Landsknecht</Text>
+            <Text>Lansquenete</Text>
         </Replace>
         <Replace Tag="LOC_UNIT_LANDSKNECHT_DESCRIPTION" Language="pt_BR">
             <Text>German unique Medieval Era unit that replaces Pikeman. Half the cost of Pikeman but must be purchased with gold.</Text>
         </Replace>
         <Replace Tag="LOC_UNIT_PHALANX_NAME" Language="pt_BR">
-            <Text>Phalanx</Text>
+            <Text>Falange</Text>
         </Replace>
         <Replace Tag="LOC_UNIT_PHALANX_DESCRIPTION" Language="pt_BR">
             <Text>Sumerian unique Ancient Era unit that replaces the Spearman. The Phalanx is available with the discovery of the Mining technology. +8 [ICON_Strength] if fighting within 8 tiles of a Ziggurat improvement.</Text>
@@ -38,25 +38,25 @@
             <Text>Chinese unique Medieval Era Ranged unit that replaces Crossbowman. Slightly less strong than the Crossbowman, but can attack twice per turn.</Text>
         </Replace>
         <Replace Tag="LOC_UNIT_RIFLEMAN_NAME" Language="pt_BR">
-            <Text>Rifleman</Text>
+            <Text>Fusileiro</Text>
         </Replace>
         <Replace Tag="LOC_UNIT_RIFLEMAN_DESCRIPTION" Language="pt_BR">
             <Text>Industrial Era Melee unit.</Text>
         </Replace>
         <Replace Tag="LOC_UNIT_JINETE_NAME" Language="pt_BR">
-            <Text>Jinete</Text>
+            <Text>Ginete Espanhol</Text>
         </Replace>
         <Replace Tag="LOC_UNIT_JINETE_DESCRIPTION" Language="pt_BR">
             <Text>Spanish unique Ranged unit that replaces Horseman. Yields 50% of defeated units' [ICON_Strength] Combat Strength as [ICON_Faith] Faith on combat victory if fighting on same continent as capital.</Text>
         </Replace>
         <Replace Tag="LOC_UNIT_EQUITE_NAME" Language="pt_BR">
-            <Text>Eques</Text>
+            <Text>Equestre</Text>
         </Replace>
         <Replace Tag="LOC_UNIT_EQUITE_DESCRIPTION" Language="pt_BR">
             <Text>Roman unique cavalry unit that replaces Rider. +5 [ICON_Strength] Combat Strength when fighting next to Legion or Warrior unit. Yields 33% of defeated units' [ICON_Strength] as [ICON_Gold] on combat victory.</Text>
         </Replace>
         <Replace Tag="LOC_UNIT_DRUZHINA_NAME" Language="pt_BR">
-            <Text>Druzhina</Text>
+            <Text>Cavaleiro Druzhina</Text>
         </Replace>
         <Replace Tag="LOC_UNIT_DRUZHINA_DESCRIPTION" Language="pt_BR">
             <Text>Russian unique cavalry unit that replaces Horseman. +5 [ICON_Strength] Combat Strength versus damaged units and +4 [ICON_Strength] Combat Strength against Melee units.</Text>
@@ -68,79 +68,79 @@
             <Text>Norwegian unique Medieval Era Melee unit that replaces Swordsman. +5 [ICON_Strength] Combat Strength and yields 50% of defeated units' [ICON_Strength] Combat Strength as [ICON_Culture] Culture on combat victory if fighting on same continent as capital.</Text>
         </Replace>
         <Replace Tag="LOC_UNIT_MUGHAL_SOWAR_NAME" Language="pt_BR">
-            <Text>Mughal Sowar</Text>
+            <Text>Sowar Mongol</Text>
         </Replace>
         <Replace Tag="LOC_UNIT_MUGHAL_SOWAR_DESCRIPTION" Language="pt_BR">
             <Text>Indian unique Medieval Era Heavy Cavalry unit that replaces Knight. Ignores terrain costs. Heals +15 per turn when on or adjacent to a Stepwell improvement.</Text>
         </Replace>
         <Replace Tag="LOC_UNIT_LONGBOWMAN_NAME" Language="pt_BR">
-            <Text>Longbowman</Text>
+            <Text>Arco Longo Inglês</Text>
         </Replace>
         <Replace Tag="LOC_UNIT_LONGBOWMAN_DESCRIPTION" Language="pt_BR">
             <Text>English unique Medieval Era Ranged unit that replaces the Crossbowman. +4 [ICON_Strength] Combat Strength against Melee and Cavalry units with a further +4 [ICON_Strength] Combat Strength if adjacent to another Longbowman unit.</Text>
         </Replace>
         <Replace Tag="LOC_UNIT_CUIRASSIER_NAME" Language="pt_BR">
-            <Text>Cuirassier</Text>
+            <Text>Couraceiro</Text>
         </Replace>
         <Replace Tag="LOC_UNIT_CUIRASSIER_DESCRIPTION" Language="pt_BR">
             <Text>Industrial Era Heavy Cavalry unit.</Text>
         </Replace>
         <Replace Tag="LOC_UNIT_SOHEI_NAME" Language="pt_BR">
-            <Text>Sohei</Text>
+            <Text>Monge Guerreiro Sohei</Text>
         </Replace>
         <Replace Tag="LOC_UNIT_SOHEI_DESCRIPTION" Language="pt_BR">
             <Text>Japanese unique unit available with the Feudalism Civic. Can be purchased with [ICON_Faith] Faith. +10 [ICON_Strength] Combat Strength when defending.</Text>
         </Replace>
         <Replace Tag="LOC_UNIT_AMAZON_NAME" Language="pt_BR">
-            <Text>Amazon Cavalry</Text>
+            <Text>Cavaleira Amazona</Text>
         </Replace>
         <Replace Tag="LOC_UNIT_AMAZON_DESCRIPTION" Language="pt_BR">
             <Text>Scythian unique Medieval Era Heavy Cavalry unit that replaces Knight. Can move after attacking.</Text>
         </Replace>
         <Replace Tag="LOC_UNIT_FATHERLAND_VOLUNTEER_NAME" Language="pt_BR">
-            <Text>Fatherland Volunteer</Text>
+            <Text>Voluntários da Pátria</Text>
         </Replace>
         <Replace Tag="LOC_UNIT_FATHERLAND_VOLUNTEER_DESCRIPTION" Language="pt_BR">
             <Text>Brazilian unique Industrial Era Melee unit that replaces the Rifleman. Cheaper than the Rifleman and costs less maintenance.</Text>
         </Replace>
         <Replace Tag="LOC_UNIT_HYKSOS_BOWMAN_NAME" Language="pt_BR">
-            <Text>Hyksos Bowman</Text>
+            <Text>Arqueiro Hicsos</Text>
         </Replace>
         <Replace Tag="LOC_UNIT_HYKSOS_BOWMAN_DESCRIPTION" Language="pt_BR">
             <Text>Egyptian unique Ranged unit that is stronger than the Archer it replaces.</Text>
         </Replace>
         <Replace Tag="LOC_UNIT_GENDARME_NAME" Language="pt_BR">
-            <Text>Gendarme</Text>
+            <Text>Gendarmaria</Text>
         </Replace>
         <Replace Tag="LOC_UNIT_GENDARME_DESCRIPTION" Language="pt_BR">
             <Text>French unique Medieval Era Heavy Cavalry unit that replaces Knight. +5 [ICON_Strength] Combat Strength when attacking.</Text>
         </Replace>
         <Replace Tag="LOC_UNIT_GARDE_REPUBLICAINE_NAME" Language="pt_BR">
-            <Text>Garde Republicaine</Text>
+            <Text>Guarda Republicana</Text>
         </Replace>
         <Replace Tag="LOC_UNIT_GARDE_REPUBLICAINE_DESCRIPTION" Language="pt_BR">
             <Text>Kongolese unique Information Era Melee unit that replaces Mechanized Infantry. +10 [ICON_Strength] Combat Strength when attacking or defending districts.</Text>
         </Replace>
         <Replace Tag="LOC_UNIT_BANDEIRANTE_NAME" Language="pt_BR">
-            <Text>Bandeirante</Text>
+            <Text>Bandeirantes</Text>
         </Replace>
         <Replace Tag="LOC_UNIT_BANDEIRANTE_DESCRIPTION" Language="pt_BR">
             <Text>Brazilian unique Renaissance Era Recon unit that replaces the Ranger. Available earlier than the Hunter at Gunpowder. Can build forts. Yields 25% of defeated units' combat strength as [ICON_Gold] Gold and 25% of defeated units' combat strength as [ICON_Culture] Culture.</Text>
         </Replace>
         <Replace Tag="LOC_UNIT_TERCIO_NAME" Language="pt_BR">
-            <Text>Tercio</Text>
+            <Text>Terço</Text>
         </Replace>
         <Replace Tag="LOC_UNIT_TERCIO_DESCRIPTION" Language="pt_BR">
             <Text>Spanish unique Renaissance Era Anti-Cavalry unit.</Text>
         </Replace>
         <Replace Tag="LOC_UNIT_SEPOY_NAME" Language="pt_BR">
-            <Text>Sepoy</Text>
+            <Text>Sipai</Text>
         </Replace>
         <Replace Tag="LOC_UNIT_SEPOY_DESCRIPTION" Language="pt_BR">
             <Text>Indian unique Melee unit that replaces the Rifleman. Fights at full Combat Strength when damaged.</Text>
         </Replace>
         <Replace Tag="LOC_UNIT_AMAZON_SCOUT_NAME" Language="pt_BR">
-            <Text>Amazon Scout</Text>
+            <Text>Exploradora Amazona</Text>
         </Replace>
         <Replace Tag="LOC_UNIT_AMAZON_SCOUT_DESCRIPTION" Language="pt_BR">
             <Text>Scythian unique Ancient Era Recon unit that is stronger than the regular Scout.</Text>
@@ -170,13 +170,13 @@
             <Text>Egyptian unique naval Ranged unit. Stronger than the Quadrireme it replaces and has range 2 instead of 1.</Text>
         </Replace>
         <Replace Tag="LOC_UNIT_ONAGER_NAME" Language="pt_BR">
-            <Text>Onager</Text>
+            <Text>Onagro</Text>
         </Replace>
         <Replace Tag="LOC_UNIT_ONAGER_DESCRIPTION" Language="pt_BR">
             <Text>Roman unique siege unit. Stronger than the Catapult it replaces.</Text>
         </Replace>
         <Replace Tag="LOC_UNIT_VULTURE_NAME" Language="pt_BR">
-            <Text>Sickle Swordsman</Text>
+            <Text>Guerreiro de Foice</Text>
         </Replace>
         <Replace Tag="LOC_UNIT_VULTURE_DESCRIPTION" Language="pt_BR">
             <Text>Sumerian unique Melee unit. +5 [ICON_Strength] Combat Strength versus damaged units.</Text>
@@ -188,7 +188,7 @@
             <Text>Greek unique Melee unit that replaces Rifleman. +5 [ICON_Strength] Combat Strength on Hills and ignores Hills movement penalty.</Text>
         </Replace>
         <Replace Tag="LOC_UNIT_FRENCH_MARINE_NAME" Language="pt_BR">
-            <Text>Marine</Text>
+            <Text>Troupe de marine</Text>
         </Replace>
         <Replace Tag="LOC_UNIT_FRENCH_MARINE_DESCRIPTION" Language="pt_BR">
             <Text>French unique Melee unit that replaces Musketman. +5 [ICON_Strength] Combat Strength on foreign continents. Amphibious - no attack penalty when attacking from sea or across rivers.</Text>
