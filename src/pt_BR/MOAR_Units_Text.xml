@@ -5,19 +5,19 @@
             <Text>Camelo Arqueiro</Text>
         </Replace>
         <Replace Tag="LOC_UNIT_CAMEL_ARCHER_DESCRIPTION" Language="pt_BR">
-            <Text>Arabian unique Classical Era unit. Gains additional +8 [ICON_Strength] when fighting on Desert or Plains.</Text>
+            <Text>Unidade única da Arábia de Era Classica. Ganha um adicional de +8 [ICON_Strength] quando lutando em desertos ou planices.</Text>
         </Replace>
         <Replace Tag="LOC_UNIT_PELTAST_NAME" Language="pt_BR">
             <Text>Peltasta</Text>
         </Replace>
         <Replace Tag="LOC_UNIT_PELTAST_DESCRIPTION" Language="pt_BR">
-            <Text>Greek unique Ranged unit that replaces Archer. Stronger Ranged attack and Melee defence than Archer but with Range 1.</Text>
+            <Text>Unidade a distância única da Grécia que substitui o Arqueiro. Ataque a distância e defesa corporal maior que do Arqueiro, porém alcance de 1.</Text>
         </Replace>
         <Replace Tag="LOC_UNIT_MINUTEMAN_NAME" Language="pt_BR">
             <Text>Minuteman</Text>
         </Replace>
         <Replace Tag="LOC_UNIT_MINUTEMAN_DESCRIPTION" Language="pt_BR">
-            <Text>American unique Industrial Era unit that replaces Musketman. Weaker than Musketman, but cheaper to build and maintain and gains +5 [ICON_Strength] Combat Strength when fighting in or adjacent to its home territory. Also gains additional +5 [ICON_Strength] when fighting in Forest or Jungle.</Text>
+            <Text>Unidade única da América de Era Industrial que substitui o Mosqueteiro. Mais fraco que o Mosqueteiro,porém mais barato para produzir e manter. ganha +5 [ICON_Strength] de força quando lutando dentro ou adjacente a seu território natal. Também ganha +5 [ICON_Strength] de força quando lutando em Floresta ou Pântano.</Text>
         </Replace>
         <Replace Tag="LOC_UNIT_LANDSKNECHT_NAME" Language="pt_BR">
             <Text>Lansquenete</Text>
