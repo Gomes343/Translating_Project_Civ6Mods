@@ -23,37 +23,37 @@
             <Text>Lansquenete</Text>
         </Replace>
         <Replace Tag="LOC_UNIT_LANDSKNECHT_DESCRIPTION" Language="pt_BR">
-            <Text>German unique Medieval Era unit that replaces Pikeman. Half the cost of Pikeman but must be purchased with gold.</Text>
+            <Text>Unidade única da Alemanha de Era Medieval que substitui o Pikeman. Metade do custo do Lanceiro, mas deve ser adquirido com ouro.</Text>
         </Replace>
         <Replace Tag="LOC_UNIT_PHALANX_NAME" Language="pt_BR">
             <Text>Falange</Text>
         </Replace>
         <Replace Tag="LOC_UNIT_PHALANX_DESCRIPTION" Language="pt_BR">
-            <Text>Sumerian unique Ancient Era unit that replaces the Spearman. The Phalanx is available with the discovery of the Mining technology. +8 [ICON_Strength] if fighting within 8 tiles of a Ziggurat improvement.</Text>
+            <Text>Unidade única da Suméria de de Era Antiga que substitui o Lanceiro. O Falange está disponível após a descoberta da tecnologia Mineração. +8 [ICON_Strength] de força quando lutando dentro de 8 espaços of a Ziggurat improvement.</Text>
         </Replace>
         <Replace Tag="LOC_UNIT_CHOKONU_NAME" Language="pt_BR">
             <Text>Cho-Ko-Nu</Text>
         </Replace>
         <Replace Tag="LOC_UNIT_CHOKONU_DESCRIPTION" Language="pt_BR">
-            <Text>Chinese unique Medieval Era Ranged unit that replaces Crossbowman. Slightly less strong than the Crossbowman, but can attack twice per turn.</Text>
+            <Text>Unidade a distância única da China de era Medieval que substitui o Besteiro. Um pouco menos forte que o Besteiro, mas pode atacar duas vezes por turno.</Text>
         </Replace>
         <Replace Tag="LOC_UNIT_RIFLEMAN_NAME" Language="pt_BR">
             <Text>Fusileiro</Text>
         </Replace>
         <Replace Tag="LOC_UNIT_RIFLEMAN_DESCRIPTION" Language="pt_BR">
-            <Text>Industrial Era Melee unit.</Text>
+            <Text>Unidade corpo a corpo da Era Industrial.</Text>
         </Replace>
         <Replace Tag="LOC_UNIT_JINETE_NAME" Language="pt_BR">
             <Text>Ginete Espanhol</Text>
         </Replace>
         <Replace Tag="LOC_UNIT_JINETE_DESCRIPTION" Language="pt_BR">
-            <Text>Spanish unique Ranged unit that replaces Horseman. Yields 50% of defeated units' [ICON_Strength] Combat Strength as [ICON_Faith] Faith on combat victory if fighting on same continent as capital.</Text>
+            <Text>Unidade a distância única da Espanha que substitui o Cavaleiro. Se lutando no mesmo continente que a Capital, produz [ICON_Faith] fé igual a 50% da [ICON_Strength] força da únidade derrotada. </Text>
         </Replace>
         <Replace Tag="LOC_UNIT_EQUITE_NAME" Language="pt_BR">
             <Text>Equestre</Text>
         </Replace>
         <Replace Tag="LOC_UNIT_EQUITE_DESCRIPTION" Language="pt_BR">
-            <Text>Roman unique cavalry unit that replaces Rider. +5 [ICON_Strength] Combat Strength when fighting next to Legion or Warrior unit. Yields 33% of defeated units' [ICON_Strength] as [ICON_Gold] on combat victory.</Text>
+            <Text>Unidada a cavalo única da Roma que substitui o Rider. +5 [ICON_Strength] de força de combate quando lutando próximo de uma unidade de Guerreiro ou Legionário. Produz [ICON_Gold] ouro igual a 33% da [ICON_Strength] força de combate da únidade derrotada.</Text>
         </Replace>
         <Replace Tag="LOC_UNIT_DRUZHINA_NAME" Language="pt_BR">
             <Text>Cavaleiro Druzhina</Text>
