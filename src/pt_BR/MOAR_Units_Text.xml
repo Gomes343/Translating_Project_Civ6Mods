@@ -59,184 +59,184 @@
             <Text>Cavaleiro Druzhina</Text>
         </Replace>
         <Replace Tag="LOC_UNIT_DRUZHINA_DESCRIPTION" Language="pt_BR">
-            <Text>Russian unique cavalry unit that replaces Horseman. +5 [ICON_Strength] Combat Strength versus damaged units and +4 [ICON_Strength] Combat Strength against Melee units.</Text>
+            <Text>Unidade a cavalo única da Russia que substitui o Cavaleiro. +5 [ICON_Strength] de Força de Combate contra unidades danificadas e +4 [ICON_Strength] de Força de Combate contra unidades corpo a corpo.</Text>
         </Replace>
         <Replace Tag="LOC_UNIT_HIRDMAN_NAME" Language="pt_BR">
             <Text>Hirdman</Text>
         </Replace>
         <Replace Tag="LOC_UNIT_HIRDMAN_DESCRIPTION" Language="pt_BR">
-            <Text>Norwegian unique Medieval Era Melee unit that replaces Swordsman. +5 [ICON_Strength] Combat Strength and yields 50% of defeated units' [ICON_Strength] Combat Strength as [ICON_Culture] Culture on combat victory if fighting on same continent as capital.</Text>
+            <Text>Unidade corpo a corpo única da Noruega de era Medieval que substitui o Espadachim. +5 [ICON_Strength] de Força de Combate e se lutando no mesmo continente que a Capital, produz [ICON_Culture] cultura igual a 50% da [ICON_Strength] força da únidade derrotada.</Text>
         </Replace>
         <Replace Tag="LOC_UNIT_MUGHAL_SOWAR_NAME" Language="pt_BR">
             <Text>Sowar Mongol</Text>
         </Replace>
         <Replace Tag="LOC_UNIT_MUGHAL_SOWAR_DESCRIPTION" Language="pt_BR">
-            <Text>Indian unique Medieval Era Heavy Cavalry unit that replaces Knight. Ignores terrain costs. Heals +15 per turn when on or adjacent to a Stepwell improvement.</Text>
+            <Text>Unidade a Cavalo Pesada única da India de Era Medieval que substitui o Knight. Ignora custos de terreno. Cura +15 por turno quando dentro ou adjacente a Stepwell improvement.</Text>
         </Replace>
         <Replace Tag="LOC_UNIT_LONGBOWMAN_NAME" Language="pt_BR">
             <Text>Arco Longo Inglês</Text>
         </Replace>
         <Replace Tag="LOC_UNIT_LONGBOWMAN_DESCRIPTION" Language="pt_BR">
-            <Text>English unique Medieval Era Ranged unit that replaces the Crossbowman. +4 [ICON_Strength] Combat Strength against Melee and Cavalry units with a further +4 [ICON_Strength] Combat Strength if adjacent to another Longbowman unit.</Text>
+            <Text>Unidade a Distância única da Inglaterra de Era Medieval que substitui o Besteiro. +4 [ICON_Strength] de Força de Combate contra corpo a corpo e cavalaria com um ganho de +4 [ICON_Strength] de Força de Combate se adjacente a outra únidade de Arco Longo Inglês.</Text>
         </Replace>
         <Replace Tag="LOC_UNIT_CUIRASSIER_NAME" Language="pt_BR">
             <Text>Couraceiro</Text>
         </Replace>
         <Replace Tag="LOC_UNIT_CUIRASSIER_DESCRIPTION" Language="pt_BR">
-            <Text>Industrial Era Heavy Cavalry unit.</Text>
+            <Text>Unidade a Cavalo Pesada de Era Induatrial.</Text>
         </Replace>
         <Replace Tag="LOC_UNIT_SOHEI_NAME" Language="pt_BR">
             <Text>Monge Guerreiro Sohei</Text>
         </Replace>
         <Replace Tag="LOC_UNIT_SOHEI_DESCRIPTION" Language="pt_BR">
-            <Text>Japanese unique unit available with the Feudalism Civic. Can be purchased with [ICON_Faith] Faith. +10 [ICON_Strength] Combat Strength when defending.</Text>
+            <Text>Unidade única do Japão disponível com o Cívico de Feudalismo. Pode ser adquirido com [ICON_Faith] Fé. +10 [ICON_Strength] de Força de Combate quando defendendo.</Text>
         </Replace>
         <Replace Tag="LOC_UNIT_AMAZON_NAME" Language="pt_BR">
             <Text>Cavaleira Amazona</Text>
         </Replace>
         <Replace Tag="LOC_UNIT_AMAZON_DESCRIPTION" Language="pt_BR">
-            <Text>Scythian unique Medieval Era Heavy Cavalry unit that replaces Knight. Can move after attacking.</Text>
+            <Text>Unidade a Cavalo Pesada única da Cita de Era Medieval que substitui o Knight. Pode se mover depois de atacar.</Text>
         </Replace>
         <Replace Tag="LOC_UNIT_FATHERLAND_VOLUNTEER_NAME" Language="pt_BR">
             <Text>Voluntários da Pátria</Text>
         </Replace>
         <Replace Tag="LOC_UNIT_FATHERLAND_VOLUNTEER_DESCRIPTION" Language="pt_BR">
-            <Text>Brazilian unique Industrial Era Melee unit that replaces the Rifleman. Cheaper than the Rifleman and costs less maintenance.</Text>
+            <Text>Unidade Corpo a Corpo única do Brasil de Era Industrial que substitui a Infantaria. Mais barato que a Infantaria e custa menos de manutenção.</Text>
         </Replace>
         <Replace Tag="LOC_UNIT_HYKSOS_BOWMAN_NAME" Language="pt_BR">
             <Text>Arqueiro Hicsos</Text>
         </Replace>
         <Replace Tag="LOC_UNIT_HYKSOS_BOWMAN_DESCRIPTION" Language="pt_BR">
-            <Text>Egyptian unique Ranged unit that is stronger than the Archer it replaces.</Text>
+            <Text>Unidade a Distância única do Egito substitui o Arqueiro e é mais forte que ele.</Text>
         </Replace>
         <Replace Tag="LOC_UNIT_GENDARME_NAME" Language="pt_BR">
             <Text>Gendarmaria</Text>
         </Replace>
         <Replace Tag="LOC_UNIT_GENDARME_DESCRIPTION" Language="pt_BR">
-            <Text>French unique Medieval Era Heavy Cavalry unit that replaces Knight. +5 [ICON_Strength] Combat Strength when attacking.</Text>
+            <Text>Unidade a Cavalo Pesada única da França que substitui o Knight. +5 [ICON_Strength] de Força de Combate quando Atacando.</Text>
         </Replace>
         <Replace Tag="LOC_UNIT_GARDE_REPUBLICAINE_NAME" Language="pt_BR">
             <Text>Guarda Republicana</Text>
         </Replace>
         <Replace Tag="LOC_UNIT_GARDE_REPUBLICAINE_DESCRIPTION" Language="pt_BR">
-            <Text>Kongolese unique Information Era Melee unit that replaces Mechanized Infantry. +10 [ICON_Strength] Combat Strength when attacking or defending districts.</Text>
+            <Text>Unidade Corpo a Corpo única do Kongo de Era da Informação que substitui a Infantaria Mecanizada. +10 [ICON_Strength] de Força de Combate quando atacando ou defendendo distritos.</Text>
         </Replace>
         <Replace Tag="LOC_UNIT_BANDEIRANTE_NAME" Language="pt_BR">
             <Text>Bandeirantes</Text>
         </Replace>
         <Replace Tag="LOC_UNIT_BANDEIRANTE_DESCRIPTION" Language="pt_BR">
-            <Text>Brazilian unique Renaissance Era Recon unit that replaces the Ranger. Available earlier than the Hunter at Gunpowder. Can build forts. Yields 25% of defeated units' combat strength as [ICON_Gold] Gold and 25% of defeated units' combat strength as [ICON_Culture] Culture.</Text>
+            <Text>Unidade de Reconhecimento única do Brasil de Era Renascentista que substitui o Ranger. Disponível antes do que o Hunter com a polvora. Pode construir Fortes. Produz [ICON_Gold] Ouro e [ICON_Culture] Cultura igual a 25% da [ICON_Strength] Força de Combate da únidade derrotada.</Text>
         </Replace>
         <Replace Tag="LOC_UNIT_TERCIO_NAME" Language="pt_BR">
             <Text>Terço</Text>
         </Replace>
         <Replace Tag="LOC_UNIT_TERCIO_DESCRIPTION" Language="pt_BR">
-            <Text>Spanish unique Renaissance Era Anti-Cavalry unit.</Text>
+            <Text>Unidade Anti Cavalaria única da Espanha de Era Renascentista.</Text>
         </Replace>
         <Replace Tag="LOC_UNIT_SEPOY_NAME" Language="pt_BR">
             <Text>Sipai</Text>
         </Replace>
         <Replace Tag="LOC_UNIT_SEPOY_DESCRIPTION" Language="pt_BR">
-            <Text>Indian unique Melee unit that replaces the Rifleman. Fights at full Combat Strength when damaged.</Text>
+            <Text>Unidade Corpo a Corpo única da India que substitui a Infantaria. Continua lutando com toda [ICON_Strength] Força de Combate mesmo danificado.</Text>
         </Replace>
         <Replace Tag="LOC_UNIT_AMAZON_SCOUT_NAME" Language="pt_BR">
             <Text>Exploradora Amazona</Text>
         </Replace>
         <Replace Tag="LOC_UNIT_AMAZON_SCOUT_DESCRIPTION" Language="pt_BR">
-            <Text>Scythian unique Ancient Era Recon unit that is stronger than the regular Scout.</Text>
+            <Text>Unidade de Reconhecimento única da Cita de Era Antiga que é mais forte que o comum Explorador.</Text>
         </Replace>
         <Replace Tag="LOC_UNIT_PANZER_NAME" Language="pt_BR">
             <Text>Tiger I</Text>
         </Replace>
         <Replace Tag="LOC_UNIT_PANZER_DESCRIPTION" Language="pt_BR">
-            <Text>German unique Tank replacement that has +5 [ICON_Strength] Combat Strength when attacking.</Text>
+            <Text>Tank único da Alemanha que tem  +5 [ICON_Strength] de Força de Combate quando atacando.</Text>
         </Replace>
         <Replace Tag="LOC_UNIT_T34_NAME" Language="pt_BR">
             <Text>T-34</Text>
         </Replace>
         <Replace Tag="LOC_UNIT_T34_DESCRIPTION" Language="pt_BR">
-            <Text>Russian unique Tank replacement that costs less to build and less maintenance. +5 [ICON_Strength] Combat Strength in or adjacent to own territory.</Text>
+            <Text>Tank único da Russia que custa menos para construir e para manter. +5 [ICON_Strength] de Força de Combate quando dentro ou adjacente de seu próprio território.</Text>
         </Replace>
         <Replace Tag="LOC_UNIT_YAMATO_NAME" Language="pt_BR">
             <Text>Yamato</Text>
         </Replace>
         <Replace Tag="LOC_UNIT_YAMATO_DESCRIPTION" Language="pt_BR">
-            <Text>Japanese unique naval Ranged unit. Stronger than the Battleship it replaces.</Text>
+            <Text>Unidade Naval a Distância única do Japão substitui e é mais forte que o Navio de Guerra(Battleship).</Text>
         </Replace>
         <Replace Tag="LOC_UNIT_WAR_GALLEY_NAME" Language="pt_BR">
             <Text>Septireme</Text>
         </Replace>
         <Replace Tag="LOC_UNIT_WAR_GALLEY_DESCRIPTION" Language="pt_BR">
-            <Text>Egyptian unique naval Ranged unit. Stronger than the Quadrireme it replaces and has range 2 instead of 1.</Text>
+            <Text>Unidade Naval a Distância única do Egito. Substitui e é mais forte que o Quadrireme e tem o alcance de 2 ao invés de 1.</Text>
         </Replace>
         <Replace Tag="LOC_UNIT_ONAGER_NAME" Language="pt_BR">
             <Text>Onagro</Text>
         </Replace>
         <Replace Tag="LOC_UNIT_ONAGER_DESCRIPTION" Language="pt_BR">
-            <Text>Roman unique siege unit. Stronger than the Catapult it replaces.</Text>
+            <Text>Unidade de Cerco única da Roma. Substitui e é mais forte que a Catapulta.</Text>
         </Replace>
         <Replace Tag="LOC_UNIT_VULTURE_NAME" Language="pt_BR">
             <Text>Guerreiro de Foice</Text>
         </Replace>
         <Replace Tag="LOC_UNIT_VULTURE_DESCRIPTION" Language="pt_BR">
-            <Text>Sumerian unique Melee unit. +5 [ICON_Strength] Combat Strength versus damaged units.</Text>
+            <Text>Unidade Corpo a Corpo única da Suméria. +5 [ICON_Strength] de Força de Combate contra únidades danificadas.</Text>
         </Replace>
         <Replace Tag="LOC_UNIT_ARMATOLOS_NAME" Language="pt_BR">
             <Text>Armatolos</Text>
         </Replace>
         <Replace Tag="LOC_UNIT_ARMATOLOS_DESCRIPTION" Language="pt_BR">
-            <Text>Greek unique Melee unit that replaces Rifleman. +5 [ICON_Strength] Combat Strength on Hills and ignores Hills movement penalty.</Text>
+            <Text>Unidade Corpo a Corpo da Grecia que substitui a Infantaria. +5 [ICON_Strength] de Força de Combate em Montanhas e ignora a penalidade de movimento das Montanhas.</Text>
         </Replace>
         <Replace Tag="LOC_UNIT_FRENCH_MARINE_NAME" Language="pt_BR">
-            <Text>Troupe de marine</Text>
+            <Text>Troupe de Marine</Text>
         </Replace>
         <Replace Tag="LOC_UNIT_FRENCH_MARINE_DESCRIPTION" Language="pt_BR">
-            <Text>French unique Melee unit that replaces Musketman. +5 [ICON_Strength] Combat Strength on foreign continents. Amphibious - no attack penalty when attacking from sea or across rivers.</Text>
+            <Text>Unidade Corpo a Corpo únida da França que substitui o Mosqueteiro. +5 [ICON_Strength] de Força de Combate em continentes estrangeiros. Anfíbio - Sem penalidade de ataque quando atacando do mar ou através de um rio.</Text>
         </Replace>
         <Replace Tag="LOC_UNIT_GHAZI_NAME" Language="pt_BR">
             <Text>Ghazi</Text>
         </Replace>
         <Replace Tag="LOC_UNIT_GHAZI_DESCRIPTION" Language="pt_BR">
-            <Text>Arabian unique Medieval Era Melee unit that replaces the Longswordsman. +5 [ICON_Strength] Combat Strength when opponent is another religion. Yields 50% of defeated units' [ICON_Strength] Combat Strength as [ICON_Faith] Faith on combat victory. Converts captured cities to player's religion. May be purchased with Faith.</Text>
+            <Text>Unidade Corpo a Corpo única da Arabia de Era Medieval que Substitui o Longswordsman. +5 [ICON_Strength] de Força de Combate quando o oponente segue outra religião. Produz [ICON_Faith] Fé igual a 50% da [ICON_Strength] Força de Combate da únidade derrotada. Converte cidades capturadas direto para a Religião do jogador. Deve ser adquirido por Fé.</Text>
         </Replace>
         <Replace Tag="LOC_UNIT_MEDICINE_MAN_NAME" Language="pt_BR">
             <Text>Medicine Man</Text>
         </Replace>
         <Replace Tag="LOC_UNIT_MEDICINE_MAN_DESCRIPTION" Language="pt_BR">
-            <Text>Kongolese unique support unit replacing Medic but available earlier with the Mysticism Civic. Must be purchased with Faith. Heals units plus adjacent Melee, Cavalry, Anti-Cavalry and Ranged units yield 50% of defeated units' [ICON_Strength] Combat Strength as [ICON_Faith] Faith on combat victory.</Text>
+            <Text>Unidade de Suporte única do Kongo que substitui o Médico mas fica disponível antes pelo Cívico de Misticismo. Deve ser adquirido com Fé. Cura únidades ao redor. Toda únidade Corpo a Corpo, Cavalaria, Anti-Cavalaria e a Distância que estiver próximo produz [ICON_Faith] Fé igual a 50% da [ICON_Strength] Força de Combate da únidade derrotada.</Text>
         </Replace>
         <Replace Tag="LOC_UNIT_SHIGONG_NAME" Language="pt_BR">
             <Text>Shigong</Text>
         </Replace>
         <Replace Tag="LOC_UNIT_SHIGONG_DESCRIPTION" Language="pt_BR">
-            <Text>Chinese unique support unit available with the Military Training Civic. Adjacent Melee, Cavalry, Anti-Cavalry and Ranged units get +5 Combat Strength and earn more experience. Must have a Barracks to build.</Text>
+            <Text>Unidade de Suporte única da China que fica disponível com o Cívico Treinamento Militar. Toda Unidade COrpo a Corpo, Cavalaria, Anti-Cavalaria e a Distância que estiver próximo ganha +5 [ICON_Strength] de Força de Combate e ganha mais experiência. Deve ter Barracas para produzir.</Text>
         </Replace>
         <Replace Tag="LOC_UNIT_SPANISH_CONQUISTADOR_DESCRIPTION" Language="pt_BR">
-            <Text>Spanish unique Renaissance Era unit that replaces the Musketman. +9 [ICON_Strength] Combat Strength when there is a Missionary, Inquisitor, or Apostle in the same hex. If this unit captures a city or is adjacent to a city when it is captured, the city will automatically adopt the Conquistador player's Religion as the dominant Religion.</Text>
+            <Text>Unidade única da Espanha de era Renascentista que substitui o Mosqueteiro. +9 [ICON_Strength] de Força de Combate quando tiver um Missionário, Inquisitor ou Apóstolo no mesmo bloco. Se esta únicade capturar uma cidade ou estiver adjacente à cidade quando for capturada, a Cidade automaticamente irá adotar a Religião do Jogador que a conquista-la como religião dominante.</Text>
         </Replace>
         <Replace Tag="LOC_UNIT_SNIPER_NAME" Language="pt_BR">
             <Text>Sniper</Text>
         </Replace>
         <Replace Tag="LOC_UNIT_SNIPER_DESCRIPTION" Language="pt_BR">
-            <Text>Atomic Era Ranged unit. Cannot move and attack on the same turn. Gains +12 [ICON_Ranged] Ranged strength vs. land units (exluding Heavy Cavalry). Gains +1 [ICON_Range] Range when on hills.</Text>
+            <Text>Unidade da Distância da Era Atômica. Não pode se mover e atacar no mesmo turno. Ganha +12 [ICON_Ranged] de Força a Distância vs. Unidades Terrestres (excluido Cavalaria Pesada). Ganha +1 [ICON_Range] de Alcance quando em Montanhas.</Text>
         </Replace>
         <Replace Tag="LOC_UNIT_EXPLORER_NAME" Language="pt_BR">
-            <Text>Explorer</Text>
+            <Text>Explorador</Text>
         </Replace>
         <Replace Tag="LOC_UNIT_EXPLORER_DESCRIPTION" Language="pt_BR">
-            <Text>Fast-moving Renaissance Era Recon unit. Ignores rivers when moving and has no disembark cost.</Text>
+            <Text>Unidade de Reconhecimento e Movimento rápido da Era Renascentista. Ignora Rios quando estiver se movendo e não tem custo de desembarque.</Text>
         </Replace>
         <Replace Tag="LOC_UNIT_MACEMAN_NAME" Language="pt_BR">
-            <Text>Longswordsman</Text>
+            <Text>Guerreiro de Espada Longa</Text>
         </Replace>
         <Replace Tag="LOC_UNIT_MACEMAN_DESCRIPTION" Language="pt_BR">
-            <Text>Medieval Era Melee unit.</Text>
+            <Text>Unidade Corpo a Corpo de Era Medieval.</Text>
         </Replace>
         <Replace Tag="LOC_UNIT_MEDIEVAL_HORSEMAN_NAME" Language="pt_BR">
             <Text>Horseman</Text>
         </Replace>
         <Replace Tag="LOC_UNIT_MEDIEVAL_HORSEMAN_DESCRIPTION" Language="pt_BR">
-            <Text>Medieval Era Light Cavalry unit.</Text>
+            <Text>Unidade de Cavalaria Leve de Era Medieval.</Text>
         </Replace>
         <Replace Tag="LOC_UNIT_AMERICAN_AH64_APACHE_NAME" Language="pt_BR">
             <Text>AH-64 Apache</Text>
