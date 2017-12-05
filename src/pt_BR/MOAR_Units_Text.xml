@@ -242,19 +242,19 @@
             <Text>AH-64 Apache</Text>
         </Replace>
         <Replace Tag="LOC_UNIT_AMERICAN_AH64_APACHE_DESCRIPTION" Language="pt_BR">
-            <Text>American unique Atomic Era Light Cavalry unit. +10 [ICON_Strength] Combat Strength versus Heavy Cavalry units.</Text>
+            <Text>Unidade de Cavalaria Leve única da America de Era Atômica. +10 [ICON_Strength] de Força de Combate contra unidades de Cavalaria Pesada.</Text>
         </Replace>
         <Replace Tag="LOC_UNIT_ENGLISH_IRONSIDE_NAME" Language="pt_BR">
             <Text>Ironside</Text>
         </Replace>
         <Replace Tag="LOC_UNIT_ENGLISH_IRONSIDE_DESCRIPTION" Language="pt_BR">
-            <Text>English unique Renaissance Era Heavy Cavalry unit available with the Reformed Church Civic. +5 [ICON_Strength] Combat Strength in or adjacent to own territory and +5 [ICON_Strength] Combat Strength when opponent is another religion.</Text>
+            <Text>Unidade de Cavalaria Pesada da Inglaterra de Era Renascentista disponível com o Cívico de Igreja Reformada. +5 [ICON_Strength] de Força de Combate quando dentro ou adjacente ao próprio território e +5 [ICON_Strength] de Força de Combate quando o oponente segue outro Religião.</Text>
         </Replace>
         <Replace Tag="LOC_UNIT_NORWEGIAN_ULFHEDNAR_NAME" Language="pt_BR">
             <Text>Ulfhedinn</Text>
         </Replace>
         <Replace Tag="LOC_UNIT_NORWEGIAN_ULFHEDNAR_DESCRIPTION" Language="pt_BR">
-            <Text>Norwegian unique support unit available with the Mysticism Civic. Adjacent units receive +5 [ICON_Strength] Combat Strength versus undamaged units and +10 [ICON_Strength] Combat Strength versus damaged units. Yield 50% of defeated units' [ICON_Strength] Combat Strength as [ICON_Faith] Faith if combat is won within one tile.</Text>
+            <Text>Unidade de Suporte única da Noruega disponível com o Cívico de Misticismo. Unidades adjacentes recebem +5 [ICON_Strength] de Força de Combate contra unidades não danificadas e +10 [ICON_Strength] de Força de Combate contra únidades danificadas.Produz [ICON_Faith] Fé igual a 50% da [ICON_Strength] Força de Combate de qualquer únidade derrotada dentro do espaço de 1 hexagono.</Text>
         </Replace>
         <Replace Tag="LOC_UNIT_TREBUCHET_NAME" Language="pt_BR">
             <Text>Trebuchet</Text>
