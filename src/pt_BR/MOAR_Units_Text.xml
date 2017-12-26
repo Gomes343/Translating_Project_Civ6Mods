@@ -263,19 +263,19 @@
             <Text>Unidade de Cerco de Era Medieval.</Text>
         </Replace>
         <Replace Tag="LOC_UNIT_GATLING_GUN_NAME" Language="pt_BR">
-            <Text>Gatling Gun</Text>
+            <Text>Metralhadora</Text>
         </Replace>
         <Replace Tag="LOC_UNIT_GATLING_GUN_DESCRIPTION" Language="pt_BR">
             <Text>Unidade Anti-Cavalaria de Era Industrial.</Text>
         </Replace>
         <Replace Tag="LOC_UNIT_RECON_NAME" Language="pt_BR">
-            <Text>Recon</Text>
+            <Text>Jeep de Reconhecimento</Text>
         </Replace>
         <Replace Tag="LOC_UNIT_RECON_DESCRIPTION" Language="pt_BR">
             <Text>Unidade de Reconhecimento de Era Moderna. Ignora rio quando se movendo e não tem custo de desembarque.</Text>
         </Replace>
         <Replace Tag="LOC_UNIT_MODERN_SNIPER_NAME" Language="pt_BR">
-            <Text>Modern Sniper</Text>
+            <Text>Sniper Moderno</Text>
         </Replace>
         <Replace Tag="LOC_UNIT_MODERN_SNIPER_DESCRIPTION" Language="pt_BR">
             <Text>Unidade a Distância da Era da Informação. Não pode se mover e atacar no mesmo turno. Ganha +12 [ICON_Ranged] de Força a Distância contra únidades terrestres. (excluindo a Cavalaria Pesada). Ganha +1 [ICON_Range] de Alcance quando em Montanhas.</Text>
