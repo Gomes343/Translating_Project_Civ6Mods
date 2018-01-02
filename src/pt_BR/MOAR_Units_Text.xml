@@ -38,7 +38,7 @@
             <Text>Unidade a distância única da China de era Medieval que substitui o Besteiro. Um pouco menos forte que o Besteiro, mas pode atacar duas vezes por turno.</Text>
         </Replace>
         <Replace Tag="LOC_UNIT_RIFLEMAN_NAME" Language="pt_BR">
-            <Text>Fusileiro</Text>
+            <Text>Fuzileiro</Text>
         </Replace>
         <Replace Tag="LOC_UNIT_RIFLEMAN_DESCRIPTION" Language="pt_BR">
             <Text>Unidade corpo a corpo da Era Industrial.</Text>
